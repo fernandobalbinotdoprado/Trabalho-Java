@@ -1,3 +1,4 @@
+// .
 public class Ex5 {
     enum Semaforo {
         AMARELO1, VERMELHO, AMARELO2, VERDE
